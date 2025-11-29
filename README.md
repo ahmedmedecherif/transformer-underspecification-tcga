@@ -26,6 +26,11 @@ These analyses support the manuscript’s central finding:
 ## 📁 Repository Structure
 ## Preprint / PDF
 A PDF version of the manuscript is available at:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/manuscript.pdf
+https://github.com/ahmedmedecherif/transformer-underspecification-tcga/blob/main/manuscript.pdf
+
+Please cite the repository as:
+Ech-Cherif A, et al. (2025).
+Transformer Underspecification in TCGA Cancer Classification.
+GitHub: https://github.com/ahmedmedecherif/transformer-underspecification-tcga
 
 
