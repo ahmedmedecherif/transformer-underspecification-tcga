@@ -24,5 +24,8 @@ These analyses support the manuscript’s central finding:
 ---
 
 ## 📁 Repository Structure
+## Preprint / PDF
+A PDF version of the manuscript is available at:
+https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/manuscript.pdf
 
 
